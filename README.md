@@ -10,8 +10,9 @@
 <img source = "https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619293708~hmac=3008b5b440ed9638b67509f6d7b9208e"/>
 <h2> Other informations about me</h2>
 <ul>
-  <li> LinkedIn: https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163/</li>
-  <li> My website: https://danielafialho289027037.wordpress.com/</li>
+  
+  <li> <a href = "https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163"> LinkedIn</a></li>
+  <li><a href = "https://danielafialho289027037.wordpress.com">My Website</a></li> 
  
  </ul>
  
@@ -29,7 +30,8 @@ esses aspectos.</p>
 <img source = "https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619293708~hmac=3008b5b440ed9638b67509f6d7b9208e"/>
 <h2> Outras informações sobre mim</h2>
 <ul>
-  <li> LinkedIn: https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163/</li>
-  <li> My website: https://danielafialho289027037.wordpress.com/</li>
+   <li> <a href = "https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163"> LinkedIn</a></li>
+  <li><a href = "https://danielafialho289027037.wordpress.com">Meu Website</a></li> 
+ 
  
  </ul>
