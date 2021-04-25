@@ -9,11 +9,11 @@
 <p>My name is Daniela and I'm a software developer. I love to learn programming and create new softwares. My  focus are create games and mobile apps.I am looking to create software with more quality and more productivity. That's why I'm specializing in software engineering, to learn more about this aspects.</p>
 <img source = "https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619293708~hmac=3008b5b440ed9638b67509f6d7b9208e"/>
 <h2> Other informations about me</h2>
+<p>My portfolio: https://danielafialho289027037.wordpress.com/</p>
+
 <h3> Social networks and contacts
   
-
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163)
-  [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Danethree)  [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/https/perso.crans.org.svg)](https://danielafialho289027037.wordpress.com/)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163)  [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Danethree) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danethree_playerone/) 
  
  <h3>Skills</h3>
  
@@ -32,11 +32,13 @@ esses aspectos.</p>
 <img source = "https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619293708~hmac=3008b5b440ed9638b67509f6d7b9208e"/>
 <h2> Outras informações sobre mim</h2>
 
+<p>Meu portfólio: https://danielafialho289027037.wordpress.com/</p>
+
 <h3> Redes sociais e contatos</h3>
   
-
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163)
-  [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Danethree)  [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/https/perso.crans.org.svg)](https://danielafialho289027037.wordpress.com/)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-fialho-d-oliveira-479b53163)  [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Danethree) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danethree_playerone/) 
+ 
+  
  
  <h3>Skills</h3>
  
