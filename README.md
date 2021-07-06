@@ -9,7 +9,7 @@
 <p>My name is Daniela and I'm a software developer. I love to learn programming and create new softwares. My  focus are create games and mobile apps.I am looking to create software with more quality and more productivity. That's why I'm specializing in software engineering, to learn more about this aspects.</p>
 <img source = "https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619293708~hmac=3008b5b440ed9638b67509f6d7b9208e"/>
 <h2> Other informations about me</h2>
-<p>My portfolio: https://danielafialho289027037.wordpress.com/</p>
+<p>My portfolio: https://danielafialho.netlify.app/</p>
 
 <h3> Social networks and contacts
   
