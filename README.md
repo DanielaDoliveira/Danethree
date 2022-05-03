@@ -1,7 +1,3 @@
-(English)
-
-
-
 
 <h1> Hi there 👋</h1>
 <p> I'm Daniela and I'm a software developer</p>
