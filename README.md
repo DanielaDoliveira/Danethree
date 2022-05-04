@@ -24,9 +24,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danethree&repo=workshopCriandoJogosDoZero&theme=prussian)](https://github.com/Danethree/workshopCriandoJogosDoZero) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danethree&repo=ProjetoUnity3D&theme=prussian)](
 https://github.com/Danethree/ProjetoUnity3D)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danethree&repo=gyroMaze&theme=prussian)](https://github.com/Danethree/gyroMaze) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danethree&repo=AreYouSureGGJ&theme=prussian)](https://github.com/Danethree/AreYouSureGGJ)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danethree&repo=CamouflageSystemAI&theme=prussian)](
 https://github.com/Danethree/CamouflageSystemAI)
-
 
 ### React: 
 
