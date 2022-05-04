@@ -12,9 +12,6 @@
  [![Unity Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
 
- ## Portfolio: 
- - <a href = 'https://danieladoliveira.netlify.app/'> Portfolio Link </a>
-
 ## Projects : 
 ### Unity 
 
